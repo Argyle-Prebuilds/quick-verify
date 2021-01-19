@@ -1,0 +1,19 @@
+@font-face {
+  font-family: "NexaRegular";
+  src: url("Fontfabric-Nexa-Regular.otf") format("opentype");
+}
+
+@font-face {
+  font-family: "NexaBold";
+  src: url("Fontfabric-Nexa-Heavy.otf") format("opentype");
+}
+
+@font-face {
+  font-family: "SfProRegular";
+  src: url("SF-Pro-Text-Regular.otf") format("opentype");
+}
+
+@font-face {
+  font-family: "SfProBold";
+  src: url("SF-Pro-Text-Bold.otf") format("opentype");
+}
