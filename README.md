@@ -1,4 +1,18 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Argyle Quick Verification App
+
+Need help setting this up, or want someone to do it for you? Visit https://scopeinc.com/vendors/argyle to be matched with an Argyle Expert. This app can be customized and deployed in a few days with rates starting from $500. 
+
+## App Features and Use Cases
+
+Argyle Quick Verification App is intended for companies looking to get up and running with an Argyle. 
+
+1. Quickly link users employment accounts (supports linking multiple accounts)
+2. Use the Argyle dashboard to view and access a users payout and employment history data 
+3. Get your MVP up and running in just a few days. 
+
+## Screenshots + demo
+
+![](argyle-verify.gif)
 
 ## Available Scripts
 
@@ -41,28 +55,4 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
-
-### Analyzing the Bundle Size
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
-
-### Making a Progressive Web App
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `npm run build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+## This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
