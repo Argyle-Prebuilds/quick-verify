@@ -55,4 +55,4 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-## This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+### Need help setting this up, or want someone to do it for you? Visit https://scopeinc.com/vendors/argyle to be matched with an Argyle Expert. This app can be customized and deployed in a few days with rates starting from $500. 
