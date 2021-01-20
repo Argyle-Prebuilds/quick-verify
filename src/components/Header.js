@@ -1,6 +1,6 @@
 import React from "react";
 import styled from "styled-components";
-import logo from "./../assets/prosper-marketplace-corporate-logo.png";
+import logo from "./../assets/ACMEinc.png";
 
 const Logo = styled.img`
   width: 132px;

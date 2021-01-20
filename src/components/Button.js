@@ -15,7 +15,7 @@ const StyledButton = styled.button`
   letter-spacing: 0.1em;
   white-space: nowrap;
   text-transform: uppercase;
-  background-color: #f37d00;
+  background-color: #4C7DD9;
   border: none;
   border-radius: 3em;
   cursor: pointer;

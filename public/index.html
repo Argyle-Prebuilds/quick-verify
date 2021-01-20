@@ -25,18 +25,9 @@
   <script>
     window.dataLayer = window.dataLayer || [];
   </script>
-  <!-- Global site tag (gtag.js) - Google Analytics -->
-  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-130016278-7"></script>
-  <script>
-    window.dataLayer = window.dataLayer || [];
-    function gtag() { dataLayer.push(arguments); }
-    gtag('js', new Date());
-
-    gtag('config', 'UA-130016278-7');
-  </script>
 
   <link rel="stylesheet" href="index.css" />
-  <title>Prosper - Let's connect your work accounts</title>
+  <title>Let's connect your work accounts</title>
 </head>
 
 <body>
@@ -51,10 +42,10 @@
       const userToken = token ? { userToken: token } : {};
 
       return Argyle.create({
-        pluginKey: "44b49a09-b3dc-4ba2-9f1d-402e6ba2de0b",
+        pluginKey: "48e8c012-b2bb-4c9a-93ee-9aef621a14e3",
         apiHost: "https://api.argyle.io/v1",
         ...userToken,
-        exitButtonTitle: "Back to Prosper",
+        exitButtonTitle: "Back",
         addIncomeSourceLinkVisible: false,
         onUserCreated: ({ userId, userToken }) => {
           localStorage.setItem("argyleLinkToken", userToken);
